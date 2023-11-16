@@ -21,7 +21,9 @@ determined that because the target variable is binary, the task should be one of
 three classification models were fine-tuned and assessed using F1-score, recall, accuracy, and precision; all of these metrics produced perfect results on the test data.
 
 ‏
-Logistic Regression: 
+
+Logistic Regression:
+
   'Accuracy': 0.9393346379647749,
   'Precision': 0.8823495620804148,
   'Recall': 0.9393346379647749,
@@ -29,13 +31,15 @@ Logistic Regression:
 
   
 Random Forest: 
+
    'Accuracy': 0.9393346379647749,
   'Precision': 0.8823495620804148,
   'Recall': 0.9393346379647749,
-  'F1 Score': 0.9099508097337881},
+  'F1 Score': 0.9099508097337881
 
   
 Support Vector Machine:
+
  'Accuracy': 0.9393346379647749,
   'Precision': 0.8823495620804148,
   'Recall': 0.9393346379647749,
